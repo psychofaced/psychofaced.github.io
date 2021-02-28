@@ -1,0 +1,19 @@
+ body {background-image:url(https://1.bp.blogspot.com/-SEv_EGLwE3s/YDk9guvMhpI/AAAAAAAABdE/kVzK9gvWynMpsy-A_J7e1qmn0gSA74gDACLcBGAsYHQ/s2000-rw/krewy.jpg)}
+  .centered-top-container.sticky, .sticky .centered-top {background:none;}
+  .post-wrapper {background:none;}
+  .p-col.left img {
+    margin: 120px auto 0 60px;}
+  .bg-photo-container,.item-view .bg-photo,#comments,.item-view .sidebar-container,.item-view .post-title,.item-view .post-share-buttons {display:none;}
+  .item-view .main-container {max-width:100%;margin-right:0 !important;}
+  .item-view .sticky .centered-top .Header h1 {color:#fff}
+  .post-body {
+    font-family: 'Didact Gothic', sans-serif;
+    letter-spacing: 0.6px;
+    line-height: 1.8;
+    font-size: 16px;
+    color:#777;}
+  .media-footer .icon-nav {padding-left:0;}
+  blockquote {background:#242627;color:#fff;font-family:'Didact Gothic',sans-serif;font-size:15px;}
+  blockquote:before {border-color:#242627}
+  blockquote:after {bottom:-62px;}
+  span.bqc {margin-left:170px;}
