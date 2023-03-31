@@ -1,8 +1,8 @@
 @font-face {
 font-family: "uicons-thin-straight";
-src: url("../uicons-thin-straight.eot#iefix") format("embedded-opentype"),
-url("../uicons-thin-straight.woff2") format("woff2"),
-url("../uicons-thin-straight.woff") format("woff");
+src: url("https://psychofaced.github.io/css/uicons-thin-straight.eot#iefix") format("embedded-opentype"),
+url("https://psychofaced.github.io/css/uicons-thin-straight.woff2") format("woff2"),
+url("https://psychofaced.github.io/css/uicons-thin-straight.woff") format("woff");
 }
 
     i[class^="fi-ts-"]:before, i[class*=" fi-ts-"]:before, span[class^="fi-ts-"]:before, span[class*="fi-ts-"]:before {
